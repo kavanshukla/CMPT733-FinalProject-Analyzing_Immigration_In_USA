@@ -3,7 +3,7 @@ Spring 2017-CMPT733- Programming In Big Data-II Final Project
 
 <a href="https://www.kaggle.com/nsharan/h-1b-visa/downloads/h-1b-visa.zip">Link to H-1B Dataset</a>
 
-packages required: tweepy, textblob, sklearn, pandas
+packages required: tweepy, textblob, sklearn, pandas <br>
 pip install 'package-name'
 
 Run the Notebook cells sequentially
