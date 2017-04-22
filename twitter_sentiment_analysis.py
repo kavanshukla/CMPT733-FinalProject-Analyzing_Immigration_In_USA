@@ -1,3 +1,8 @@
+#########################################
+#	AUTHOR: KAVAN SHUKLA		#
+#	CMPT733 PROJECT			#
+#	TWITTER SENTIMENT ANALYSIS	#
+#########################################
 import tweepy
 from textblob import TextBlob
 import csv
